@@ -15,7 +15,7 @@ Python 3.8+
 Скачайте или клонируйте этот репозиторий.
 Откройте терминал в папке проекта.
 Запустите приложение:
-python book_tracker.py
+python (book_tracker.py)
 Для запуска тестов:
 python -m unittest tests.py
 Для работы с Git:
